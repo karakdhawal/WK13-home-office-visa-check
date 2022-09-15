@@ -1,0 +1,438 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4483749600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "An Australian coming to UK for tourism",
+        "description": "",
+        "id": "visa-confirmation-test;an-australian-coming-to-uk-for-tourism",
+        "after": [
+          {
+            "result": {
+              "duration": 80200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 84251700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 211399900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on start button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnStartButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 108599400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I select a nationality Australia",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectANationalityAustralia()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 340712200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on nationality continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnNationalityContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80532900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select reason Tourism",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectReasonTourism()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 298900800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on reason continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnReasonContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41783000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify result you will not need a visa to come to the UK",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iVerifyResultYouWillNotNeedAVisaToComeToTheUK()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1592923000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "A chilean coming to the UK for work and Plans on staying for longer than six months",
+        "description": "",
+        "id": "visa-confirmation-test;a-chilean-coming-to-the-uk-for-work-and-plans-on-staying-for-longer-than-six-months",
+        "after": [
+          {
+            "result": {
+              "duration": 28700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 38400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 273831400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on start button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnStartButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 145952000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I select a Nationality Chile",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectANationalityChile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 348436800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on nationality continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnNationalityContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 103257400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I select reason work academic visit or business",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectReasonWorkAcademicVisitOrBusiness()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 336492400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on reason continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnReasonContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 84776400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I select intended to stay for longer than 6 months",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 42
+                }
+              ],
+              "location": "VisaConfirmationStepdefs.iSelectIntendedToStayForLongerThanMonths(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 288898200,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on duration continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnDurationContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101094200,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I select have planning to work for health and care professional",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectHavePlanningToWorkForHealthAndCareProfessional()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 350274400,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click on worktype continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnWorktypeContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59693200,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I verify result You need a visa to work in health and care",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iVerifyResultYouNeedAVisaToWorkInHealthAndCare()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1997014900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "A columbian national coming to the UK to join a partner for a long stay they do have an article 10 or 20 card",
+        "description": "",
+        "id": "visa-confirmation-test;a-columbian-national-coming-to-the-uk-to-join-a-partner-for-a-long-stay-they-do-have-an-article-10-or-20-card",
+        "after": [
+          {
+            "result": {
+              "duration": 35900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 42000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 264766100,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I click on start button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnStartButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 128769300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I select a nationality Colombia",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectANationalityColombia()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 354823800,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I click on nationality continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnNationalityContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 173183300,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I select reason join partner or family for a long stay",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectReasonJoinPartnerOrFamilyForALongStay()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 412998100,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I click on reason continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnReasonContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 127562200,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "I select state my partner of family member have uk immigration status yes",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iSelectStateMyPartnerOfFamilyMemberHaveUkImmigrationStatusYes()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 299350000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "I click on family immigration continue button",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iClickOnFamilyImmigrationContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63102300,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I verify result you\u0027ll need a visa to join your family or partner in the UK",
+            "match": {
+              "location": "VisaConfirmationStepdefs.iVerifyResultYouLlNeedAVisaToJoinYourFamilyOrPartnerInTheUK()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Visa Confirmation Test",
+    "description": "As user I want to login into nop commerce website",
+    "id": "visa-confirmation-test",
+    "keyword": "Feature",
+    "uri": "visaConfirmation.feature"
+  }
+]
